@@ -84,7 +84,7 @@ module.exports = {
             if (!user) {
                 return res
                     .status(404)
-                    .json({ message: 'Thought created but no user with this id!' });
+                    .json({ message: 'Thought deleted' });
             }
 
             res.json({ message: 'Thought successfully deleted!' });
@@ -105,7 +105,7 @@ module.exports = {
                 return res.status(404).json({ message: 'No thought with this id!' });
             }
 
-            res.json(video);
+            res.json(thought);
         } catch (err) {
             res.status(500).json(err);
         }
