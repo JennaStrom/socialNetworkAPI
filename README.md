@@ -7,6 +7,12 @@
 
   To see how the API works using Insomnia, see the walk-through demonstration videos here: (https://drive.google.com/file/d/1htIdMiKWNPVSYw0lwbEvXfCukOLSuCDm/view)
 
+  Here are some screenshots showing the application in Insomnia: 
+
+  <img width="1401" alt="Screenshot 2023-07-15 at 10 03 02 PM" src="https://github.com/JennaStrom/socialNetworkAPI/assets/123525191/e5d5da45-46d8-4179-82ff-353c9a0e3153">
+
+  <img width="1410" alt="Screenshot 2023-07-15 at 10 02 16 PM" src="https://github.com/JennaStrom/socialNetworkAPI/assets/123525191/1c4bfe06-9863-4d1c-9bd8-b69198a61e00">
+
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
