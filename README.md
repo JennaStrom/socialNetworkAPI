@@ -3,9 +3,9 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-  This project is an API for a social network web application. You can create users who can then share their thoughts and react to other friend's thoughts. This application uses Express.js, MongoDB Database, Mongoose, and moment.js. To create seed data and test the routes, use Insomnia.
+  This project is an API for a social network web application. You can create users who can then share their thoughts and react to other friends' thoughts. This application uses Express.js, MongoDB Database, Mongoose, and moment.js. To create seed data and test the routes, use Insomnia.
 
-  To see how the API works using Insomnia, see the walk-through demonstration videos here:
+  To see how the API works using Insomnia, see the walk-through demonstration videos here: (https://drive.google.com/file/d/1htIdMiKWNPVSYw0lwbEvXfCukOLSuCDm/view)
 
 ## Table of Contents
 - [Description](#description)
